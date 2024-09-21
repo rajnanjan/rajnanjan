@@ -3,9 +3,9 @@
 
 - 📫 How to reach me **postbox1507@gmail.com**
 
-- 🥅 2024 Goals: contribute more full stack projects
+- 🥅 2024 Goals: contribute more projects
 
-- ⚡ Fun fact **I love to play Football and try to learn something new**
+- ⚡ Fun fact **I love to play chess and try to learn something new**
 
 
 
