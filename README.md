@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Node.js developer from India</h3>
 
 - 📫 How to reach me **postbox1507@gmail.com**
 
